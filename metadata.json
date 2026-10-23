@@ -1,0 +1,6 @@
+{
+  "name": "FacilityFlow - Facility Helpdesk Management System",
+  "description": "Enterprise Facility Helpdesk Management System for multi-location complaint tracking, SLA countdowns, technician dispatch, QR reporting, and Supabase integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
